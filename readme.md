@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowgui&hide=CMake,html,swift,c,objective-c&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 ### Tech Stack 💻
 | Frontend       | Backend        | DevOps        |
 | -------------- | -------------- | ------------- |
@@ -38,7 +38,7 @@
 | Bootstrap      | SQL            | Kubernetes    |
 
 
----
+--- -->
 
 ### Tech Stack 💻
 
@@ -50,11 +50,10 @@
 
 ---
 
-### Beyond Code 🎮
-- 🏋️ Fitness enthusiast
-- 🎸 Music production and DJing
+### Beyond Code ☀️
+- 🎮 Games (SnowGui)
 - 🌍 Learning new languages and cultures
-- 📖 Always reading tech and self-improvement books
+- 📖 Always reading and rereading books
 
 <div align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">
