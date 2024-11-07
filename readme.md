@@ -56,4 +56,7 @@
 - 🌍 Learning new languages and cultures
 - 📖 Always reading tech and self-improvement books
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<div align="center">
+    ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+</div>
+
