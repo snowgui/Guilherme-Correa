@@ -54,6 +54,8 @@
 - 🌍 Learning new languages and cultures
 - 📖 Always reading and rereading books -->
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+
 <div align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">
 </div>
