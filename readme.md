@@ -57,6 +57,6 @@
 - 📖 Always reading tech and self-improvement books
 
 <div align="center">
-    ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">
 </div>
 
