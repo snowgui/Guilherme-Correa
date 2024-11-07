@@ -22,7 +22,7 @@
 - 🎮 Wild Rift Player (SnowGui) ❄️
 - 📖 Leio aproxixamente 1 livro por mês
 - 🤷🏻‍♂️ Já estava assim quando eu quebrei 
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
+- 📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowgui&count_private=true&show_icons=true&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
