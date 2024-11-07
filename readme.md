@@ -18,7 +18,7 @@
 
 
 ### Sobre mim 🧑‍💻
-- 🌱 Desenvolvedor full-stack com experiência em Kotlin, Spring Boot, .NET C#, Laravel PHP, React Native. 
+- 🌱 Desenvolvedor full-stack com experiência em Kotlin, Spring Boot, .NET C#, Laravel PHP, React Native
 - 🎮 Wild Rift Player (SnowGui) ❄️
 - 📖 Leio aproxixamente 1 livro por mês
 - 🤷🏻‍♂️ Já estava assim quando eu quebrei 
@@ -54,10 +54,9 @@
 - 🌍 Learning new languages and cultures
 - 📖 Always reading and rereading books -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
-
 <div align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">
 </div>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
