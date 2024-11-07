@@ -20,9 +20,9 @@
 ### Sobre mim 🧑‍💻
 - 🌱 Desenvolvedor full-stack com experiência em Kotlin, Spring Boot, .NET C#, Laravel PHP, React Native. 
 - 🎮 Wild Rift Player (SnowGui) ❄️
-- 🗓️ Leio aproximadamente 12 livros por ano.
-- 🛠 Já estava assim quando eu quebrei.
-- 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
+- 📖 Leio aproxixamente 1 livro por mês
+- 🤷🏻‍♂️ Já estava assim quando eu quebrei 
+- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowgui&count_private=true&show_icons=true&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
