@@ -17,8 +17,8 @@
 - 🛠 Skilled in designing scalable backend architectures and cloud deployments on AWS
 - 🌱 Currently diving deeper into Bootstrap for UI enhancements and improving proficiency in SQL databases
 - 💼 Looking to collaborate on projects involving microservices, distributed systems, and serverless architectures
-- 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowgui&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=CMake,html,swift,c,objective-c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowgui&hide=CMake,html,swift,c,objective-c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
