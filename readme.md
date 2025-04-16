@@ -20,7 +20,7 @@
 ### Sobre mim 🧑‍💻
 - 🌱 Desenvolvedor full-stack com experiência em Kotlin, Spring Boot, .NET C#, Laravel PHP, React Native
 - 🎮 Wild Rift Player (SnowGui) ❄️
-- 📖 Leio aproxixamente 1 livro por mês
+- 📖 Universos paralelos
 - 🤷🏻‍♂️ Já estava assim quando eu quebrei 
 - 📫 Como entrar em contato: [LinkedIn](https://www.linkedin.com/in/guilherme-correa-gonçalves-57855b75/)
 
